@@ -24,9 +24,9 @@ body {
 .robot {
   margin: 1rem;
   width: 320px;
+  height: 208px;
   display: flex;
   justify-content: center;
-  height: 100%;
 }
 
 .robot-body {
